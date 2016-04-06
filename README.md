@@ -1,2 +1,2 @@
 # hello-world
-Tutorial repository
+This is some sample text. Lorem Ipsum whatever etc.
